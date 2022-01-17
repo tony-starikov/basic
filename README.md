@@ -1,1 +1,1 @@
-## Booking project
+## Basic project
